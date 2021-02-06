@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://seanwithfaith.github.io/</id>
     <title>村山狐狸的异想世界</title>
-    <updated>2021-02-06T11:10:53.442Z</updated>
+    <updated>2021-02-06T12:17:17.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://seanwithfaith.github.io/"/>
     <link rel="self" href="http://seanwithfaith.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="http://seanwithfaith.github.io/post/ni-hao-wa/">
         </link>
         <updated>2021-02-06T11:04:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>欢迎来到👏周某人的异想世界！</p>
+]]></summary>
         <content type="html"><![CDATA[<p>欢迎来到👏周某人的异想世界！</p>
+<!-- more -->
+<p>开启这个blog的原因是，看了Ali Abdaal的youtube视频。他分享了一期有关《Show your work》的视频。</p>
 ]]></content>
     </entry>
 </feed>
