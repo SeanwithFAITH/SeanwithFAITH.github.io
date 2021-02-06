@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://seanwithfaith.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-02-06T11:07:32.365Z</updated>
+    <title>村山狐狸的异想世界</title>
+    <updated>2021-02-06T11:08:52.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://seanwithfaith.github.io/"/>
     <link rel="self" href="http://seanwithfaith.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>http://seanwithfaith.github.io/images/avatar.png</logo>
     <icon>http://seanwithfaith.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 村山狐狸的异想世界</rights>
     <entry>
         <title type="html"><![CDATA[你好哇]]></title>
         <id>http://seanwithfaith.github.io/post/ni-hao-wa/</id>
